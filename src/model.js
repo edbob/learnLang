@@ -3,8 +3,6 @@ class Model {
         this.wordsEng = wordsEng;
         this.wordsRus = wordsRus;
     }
-    
-    
 }
 
 export default Model;
