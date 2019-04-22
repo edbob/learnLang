@@ -1,0 +1,32 @@
+{
+  "name": "learnlang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edbob/learnLang.git"
+  },
+  "author": "edbob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edbob/learnLang/issues"
+  },
+  "homepage": "https://github.com/edbob/learnLang#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.10.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-rc.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1"
+  }
+}
